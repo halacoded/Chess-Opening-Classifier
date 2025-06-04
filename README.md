@@ -25,7 +25,7 @@ We explore multiple classifiers:
 
 ## 🚀 Features  
 - Encodes chess moves using **Label Encoding** for numerical representation.  
-- Evaluates **multiple classifiers** to compare accuracy and performance.  
+- Use **multiple classifiers** to Understand how each approache Classification.  
 - Provides **visualizations** for model evaluation and feature importance.
 
 ## 🏁 Model Visualizations  
