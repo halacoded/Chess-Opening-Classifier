@@ -25,8 +25,28 @@ We explore multiple classifiers to determine the best-performing model:
 ## 🚀 Features  
 - Encodes chess moves using **Label Encoding** for numerical representation.  
 - Evaluates **multiple classifiers** to compare accuracy and performance.  
-- Implements **hyperparameter tuning** to optimize model predictions.  
 - Provides **visualizations** for model evaluation and feature importance.
+
+## 🏁 Model Visualizations  
+Each trained classifier is visualized to understand its decision-making process:
+
+### **Random Forest - Decision Tree Visualization**  
+![Random Forest Classifier](/Photos/Random Forest Classifier.png)
+
+### **SVM - Decision Boundary**  
+![Support Vector Machine](/Photos/Support Vector Machine.png)
+
+### **XGBoost - Feature Importance**  
+![XGBoost](/Photos/XGBoost.png)
+
+### **KNN - Classification Boundaries**  
+![K-Nearest Neighbors](/Photos/K-Nearest Neighbors.png)
+
+### **Logistic Regression - Probability Distribution**  
+![Logistic Regression](/Photos/Logistic Regression.png)
+
+### **Neural Network - Training Loss Curve**  
+![Neural Network (MLPClassifier)](/Photos/Neural Network (MLPClassifier).png)
 
 ## 🔧 Installation & Setup  
 Click COLAP Link And Downalod Dataset then You are Ready to start 
