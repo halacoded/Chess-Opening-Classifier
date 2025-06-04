@@ -31,22 +31,22 @@ We explore multiple classifiers to determine the best-performing model:
 Each trained classifier is visualized to understand its decision-making process:
 
 ### **Random Forest - Decision Tree Visualization**  
-![Random Forest Classifier](/Photos/Random Forest Classifier.png)
+<img src="Photos/Random Forest Classifier.png" alt="Random Forest" width="500">
 
 ### **SVM - Decision Boundary**  
-![Support Vector Machine](/Photos/Support Vector Machine.png)
+<img src="Photos/Support Vector Machine.png" alt="SVM" width="500">
 
 ### **XGBoost - Feature Importance**  
-![XGBoost](/Photos/XGBoost.png)
+<img src="Photos/XGBoost.png" alt="XGBoost" width="500">
 
 ### **KNN - Classification Boundaries**  
-![K-Nearest Neighbors](/Photos/K-Nearest Neighbors.png)
+<img src="Photos/K-Nearest Neighbors.png" alt="KNN" width="500">
 
 ### **Logistic Regression - Probability Distribution**  
-![Logistic Regression](/Photos/Logistic Regression.png)
+<img src="Photos/Logistic Regression.png" alt="Logistic Regression" width="500">
 
 ### **Neural Network - Training Loss Curve**  
-![Neural Network (MLPClassifier)](/Photos/Neural Network (MLPClassifier).png)
+<img src="Photos/Neural Network (MLPClassifier).png" alt="Neural Network" width="500">
 
 ## 🔧 Installation & Setup  
 Click COLAP Link And Downalod Dataset then You are Ready to start 
