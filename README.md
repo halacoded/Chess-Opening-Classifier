@@ -4,7 +4,8 @@
 This project aims to build **classification models** that predict the chess opening based on the **first few moves**. The goal is to analyze move patterns and use machine learning to make accurate predictions.
 
 ## 📂 Dataset  
-The dataset consists of recorded chess games with the following structure:
+The dataset was sourced from **[Kaggle - All Chess Openings](https://www.kaggle.com/datasets/alexandrelemercier/all-chess-openings?resource=download)**.  
+It consists of recorded chess games with the following structure:
 - **Target Variable (`Opening`)**: The name of the chess opening played.
 - **Features (Predictors)**:
   - `move1w`, `move1b` – First moves by white and black.
