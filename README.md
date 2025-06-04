@@ -15,7 +15,7 @@ It consists of recorded chess games with the following structure:
   - `Colour` – Indicates if the player is **white or black**.
 
 ## 🏆 Models Used  
-We explore multiple classifiers to determine the best-performing model:
+We explore multiple classifiers:
 1. **Random Forest** – Ensemble learning for robust classification.
 2. **Support Vector Machine (SVM)** – Finds optimal decision boundaries.
 3. **XGBoost** – Boosted trees for superior predictive performance.
